@@ -1,0 +1,8 @@
+Solid and liquid product dispensers designed for Spaza shops in low-income communities.
+2 modes for dispensing: Free flow and Amount.
+
+Free flow: Product dispensed until user presses stop.
+Amount: User enters amount of product desired in Rands or g/ml - product will dispense until this amount is reached.
+
+Log files are kept and sent via email. -- This can be upgraded to storing values on server!
+
